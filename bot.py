@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 import os
 
-TOKEN = os.getenv("8712768972:AAEnxBdz3jpgzU7TgTWDgBvhEnXies8-2UE")
+TOKEN = os.getenv("8712768972:AAE8dfEe8TM7WAJm3F6i6r9sU9fURnLHFRc")
 
 broker_link = "https://your-broker-link.com"
 transfer_link = "https://your-transfer-link.com"
